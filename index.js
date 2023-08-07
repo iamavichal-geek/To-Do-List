@@ -36,7 +36,7 @@ addTask.addEventListener("click", function() {
         
     deleteButton.addEventListener("click", function(){
 
-taskContainer.removeChild(li);
+taskContainer.removeChild(task);
     });
 
 
